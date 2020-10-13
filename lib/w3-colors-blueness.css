@@ -13,10 +13,10 @@
 .w3-blueness-dark {color:#fff !important; background-color:#08172b !important}
 .w3-blueness-action {color:#fff !important; background-color:#08172b !important}
 
-.w3-blueness {color:#fff !important; background-color:#102c54 !important}
-.w3-text-blueness {color:#102c54 !important}
-.w3-border-blueness {border-color:#102c54 !important}
+.w3-blueness {color:#fff !important; background-color:#eaf1fb !important}
+.w3-text-blueness {color:#eaf1fb !important}
+.w3-border-blueness {border-color:#eaf1fb !important}
 
-.w3-hover-blueness:hover {color:#fff !important; background-color:#102c54 !important}
-.w3-hover-text-blueness:hover {color:#102c54 !important}
-.w3-hover-border-blueness:hover {border-color:#102c54 !important}
+.w3-hover-blueness:hover {color:#fff !important; background-color:#eaf1fb !important}
+.w3-hover-text-blueness:hover {color:#eaf1fb !important}
+.w3-hover-border-blueness:hover {border-color:#eaf1fb !important}
